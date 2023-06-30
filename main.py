@@ -1,4 +1,3 @@
-import voicerecorder as vr
 import transcribe as t
 import search
 def main(): 
